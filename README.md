@@ -1,6 +1,6 @@
 ## Laravel Passport scaffold
 
-This is scaffold for authentication server based on Laravel <a href="https://laravel.com/docs/master/passport">Passport</a> (like Jetstream for Sanctum) with configured backend and frontend. Under the hood this scaffold also have <a href="https://github.com/laravel/fortify">Fortify</a> and UI auth components from <a href="https://github.com/laravel/ui">Laravel UI</a>. Rigth now project based on <a href="https://laravel.com/docs/8.x">Laravel 8</a>
+This is template for authentication server based on Laravel <a href="https://laravel.com/docs/master/passport">Passport</a> (like Jetstream for Sanctum) with configured backend and frontend. Under the hood this scaffold also have <a href="https://github.com/laravel/fortify">Fortify</a> and UI auth components from <a href="https://github.com/laravel/ui">Laravel UI</a>. Rigth now project based on <a href="https://laravel.com/docs/8.x">Laravel 8</a>
 
 ## Installation
 
